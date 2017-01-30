@@ -1,2 +1,2 @@
-# Sirius Trade_Language Hook
+# Sirius Trade Language Hook
 Liferay 7
